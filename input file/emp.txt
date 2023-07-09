@@ -1,0 +1,4 @@
+emp_id|name|salary
+123|John Smith|5000
+456|Jane Doe|7500
+789|Alan Johnson|10000
